@@ -1,2 +1,2 @@
-# Ak-ll-_Tar-m-Smart_farming-
+# Akilli_Tarim-Smart_farming
 Akıllı Tarım projemizle ilgili dosyalar burada mevcuttur.
